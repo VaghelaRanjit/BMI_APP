@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6427388216",
+    "project_id": "final-firebase-475fc",
+    "storage_bucket": "final-firebase-475fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6427388216:android:6cb97fdbc7e30f0f6939cd",
+        "android_client_info": {
+          "package_name": "com.example.final_bmi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuacf2aY1kE4H8fMP7_oZaSB_MqcKv04k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
